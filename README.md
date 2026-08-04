@@ -1,32 +1,37 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img src="dark.svg" alt="Adnan Raza - AI Engineer" width="100%">
-  </picture>
+  <img src="banner.svg" alt="Adnan Raza - AI Engineer" width="100%" />
 </div>
+
+<br>
+
+### About
+
+AI Engineer with 6+ years of experience in data management and analytics.  
+Focused on building practical machine learning systems, data pipelines, and intelligent applications using Python.
+
+**Core Focus**  
+AI Systems · Machine Learning · Data Science · Analytics
+
+**Tech Stack**  
+Python · Scikit-learn · Pandas · NumPy · SQL · Matplotlib · Seaborn · Git
 
 ---
 
-### About Me
+### Experience Highlights
 
-AI Engineer with 6+ years of experience in data management.  
-Focused on building practical AI systems, data science workflows, and machine learning solutions using Python and Scikit-learn.
-
-**Location:** Pakistan  
-**Focus:** AI Systems · Data Science · Machine Learning  
-**Core Stack:** Python · Scikit-learn · Pandas · NumPy · SQL
+- 6+ years working with large-scale data systems and analytics workflows
+- Building end-to-end ML solutions from data preprocessing to model deployment
+- Strong foundation in classical machine learning and data science tooling
+- Comfortable owning problems from understanding requirements to delivery
 
 ---
 
 ### Skills
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `Git` `Data Management`
+`Python` `Scikit-learn` `Pandas` `NumPy` `SQL` `Matplotlib` `Seaborn` `Git` `Data Analysis` `Machine Learning`
 
 ---
 
 <div align="center">
-  <a href="https://github.com/AdnanRaza88">GitHub</a> ·
-  LinkedIn ·
-  Portfolio
+  <a href="https://github.com/AdnanRaza88">GitHub</a>
 </div>
