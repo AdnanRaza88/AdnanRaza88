@@ -4,64 +4,65 @@
 
 <br>
 
-### About
-
-AI Engineer with over six years of professional experience in data management and analytics, now specialized in Generative AI, agentic systems, and AI automation. I design and build RAG pipelines, multi-agent orchestration with LangGraph, MCP-based tool integrations, and end-to-end systems that combine REST/GraphQL APIs with automation platforms such as n8n, Zapier, and Make.
-
-I am comfortable owning the full stack of an AI feature — FastAPI backends, Pydantic-validated schemas, vector databases, Docker sandboxes, and MLOps prototypes. My daily workflow includes modern AI coding tools alongside Git and GitHub. I pick up new tools and APIs quickly and focus on reliable, production-oriented solutions.
-
-**Open to**  
-AI Engineer · GenAI Developer · AI Automation Engineer · Data Science / Machine Learning roles
+<div align="center">
+  <h1>Hi, I'm Adnan Raza</h1>
+  <h3>AI Engineer | GenAI Developer | AI Automation</h3>
+  <p>Building RAG pipelines, multi-agent systems, and production AI features</p>
+</div>
 
 ---
 
-### Core Skills
+### About Me
+
+AI Engineer with 6+ years of professional data experience, now specialized in Generative AI, agentic systems, and AI automation.
+
+I design and ship end-to-end AI systems — RAG pipelines, multi-agent orchestration (LangGraph), MCP-based tool integrations, FastAPI backends, vector databases, and MLOps prototypes. Comfortable owning the full stack of an AI feature from idea to production.
+
+**Open to:** AI Engineer · GenAI Developer · AI Automation Engineer · Data Science / ML roles
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdnanRaza88&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanRaza88&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanRaza88&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+---
+
+### Tech Stack
 
 **Generative AI & Agents**  
-LangChain, LangGraph, RAG, Prompt Engineering & Evaluation, Multi-agent Systems, Tool-calling, MCP plugins/connectors, OpenAI API, Groq API, Structured Output (Pydantic)
-
-**AI Coding & Dev Tools**  
-Cursor, Claude Code, Lovable, Git, GitHub, Docker (sandboxes & containers), Spec-driven development
-
-**API Integration & Automation**  
-REST & GraphQL APIs, Webhooks, OAuth, third-party integrations (GitHub, HubSpot, Slack, OpenAI, Groq), n8n, Zapier, Make, self-healing workflows
-
-**Vector Stores & Search**  
-Pinecone, FAISS, ChromaDB, sentence-transformers, semantic search
+`LangChain` `LangGraph` `RAG` `Multi-Agent Systems` `Tool Calling` `MCP` `OpenAI API` `Groq API` `Pydantic` `Prompt Engineering`
 
 **Backend & Data**  
-FastAPI, Pydantic validation, SQL databases, data cleaning & visualization, Scikit-learn, Pandas, NumPy
+`Python` `FastAPI` `Pydantic` `SQL` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
 
-**Frontend & Design**  
-Streamlit, HTML/CSS, Figma, Photoshop, Illustrator
+**Vector & Search**  
+`ChromaDB` `FAISS` `Pinecone` `sentence-transformers` `Semantic Search`
+
+**Automation & Integration**  
+`n8n` `Zapier` `Make` `REST APIs` `GraphQL` `Webhooks` `OAuth` `Docker`
+
+**Tools**  
+`Git` `GitHub` `Cursor` `Claude Code` `Docker` `Figma`
 
 ---
 
-### Selected Projects
+### Featured Projects
 
-**Realtime MLOps Platform**  
-Python, FastAPI, Drift Detection, Model Registry  
-[github.com/AdnanRaza88/realtime-mlops-platform](https://github.com/AdnanRaza88/realtime-mlops-platform)  
-End-to-end MLOps prototype covering streaming ingestion concepts, feature store patterns, model registry with stage transitions, automated retraining triggers, and PSI-based drift detection with a monitoring dashboard.
-
-**Autonomous Coding Agent (LangGraph)**  
-LangGraph, Docker Sandbox, GitHub API  
-[github.com/AdnanRaza88/autonomous-coding-agent](https://github.com/AdnanRaza88/autonomous-coding-agent)  
-Devin-style agent that takes an issue through plan, code, test, reflect/self-correct, and PR. Multi-step orchestration with safe sandboxed execution and GitHub API integration.
-
-**PDF RAG Chatbot + Semantic Search**  
-LangChain, ChromaDB, FastAPI, Streamlit, sentence-transformers  
-Production-style RAG for PDF upload, embeddings, and conversational retrieval. Also includes offline semantic search over structured data using all-MiniLM-L6-v2.
-
-**E9 — Lab Report Rubric Scorer (Multi-Agent)**  
-FastAPI, Groq Specialist Agents, JWT  
-[github.com/AdnanRaza88/e9](https://github.com/AdnanRaza88/e9)  
-Evidence-backed grading with one specialist AI agent per rubric criterion, cited quotes, and deterministic weighted scoring. FastAPI backend with dashboard.
-
-**n8n AI Workflows (Automation + GTM)**  
-n8n, OpenAI GPT-4o-mini, HubSpot, Slack  
-[github.com/AdnanRaza88/n8n-ai-workflows](https://github.com/AdnanRaza88/n8n-ai-workflows)  
-AI Self-Healing Executor that validates API responses and auto-repairs failing payloads. Inbound lead routing that scores and tiers leads before routing to HubSpot and Slack.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Realtime MLOps Platform**](https://github.com/AdnanRaza88/realtime-mlops-platform) | End-to-end MLOps with streaming ingestion, model registry, automated retraining, and PSI drift detection | Python, FastAPI, Drift Detection |
+| [**Autonomous Coding Agent**](https://github.com/AdnanRaza88/autonomous-coding-agent) | Devin-style agent: Issue → Plan → Code → Test → Reflect → PR with sandboxed execution | LangGraph, Docker, GitHub API |
+| [**E9 Lab Report Rubric Scorer**](https://github.com/AdnanRaza88/e9) | Evidence-backed multi-agent grading with specialist agents per criterion and weighted scoring | FastAPI, Groq, JWT |
+| [**n8n AI Workflows**](https://github.com/AdnanRaza88/n8n-ai-workflows) | Self-healing API executor + inbound lead routing to HubSpot and Slack | n8n, OpenAI, HubSpot |
+| **PDF RAG Chatbot** | Production-style RAG with PDF upload, embeddings, and conversational retrieval | LangChain, ChromaDB, Streamlit |
 
 ---
 
@@ -69,15 +70,21 @@ AI Self-Healing Executor that validates API responses and auto-repairs failing p
 
 **Data Management — AR (Abdul Rahman) Textile**  
 Karachi, Pakistan · 6+ Years  
-Owned large-scale data systems, analytics workflows, and reporting for textile operations. Designed data pipelines and visualization outputs that informed business decisions. The same discipline around structured data, validation, and cleaning now underpins the reliable AI pipelines I build.
+Owned large-scale data systems, analytics workflows, and reporting. Built the data discipline (validation, cleaning, structured pipelines) that now powers reliable AI systems.
 
 ---
 
-### Focus
+### Connect
 
-Full-time specialization in applied AI/ML — RAG, multi-agent systems, automation, and API integration — grounded in solid machine learning fundamentals.
+<p align="center">
+  <a href="https://github.com/AdnanRaza88">
+    <img src="https://img.shields.io/badge/GitHub-AdnanRaza88-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-Languages: English, Urdu
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdnanRaza88&style=flat-square&color=blueviolet" alt="Profile views" />
+</p>
 
 ---
 
