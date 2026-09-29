@@ -6,20 +6,19 @@
 
 <div align="center">
   <h1>Adnan Raza</h1>
-  <h3>AI Engineer · GenAI Developer · AI Automation</h3>
-  <p>Building RAG pipelines, multi-agent systems, and production AI features</p>
+  <h3>AI Engineer · GenAI Developer · Multi-Agent Systems</h3>
+  <p>Building production-ready RAG pipelines, multi-agent systems, and AI automation</p>
 </div>
 
 ---
 
 ### About Me
 
-- Currently working on building RAG pipelines, multi-agent systems with LangGraph, and AI automation workflows
-- Looking to collaborate on Generative AI projects, agentic systems, RAG applications, and AI automation tools
-- Looking for help with scaling multi-agent architectures and production MLOps pipelines
-- Currently learning advanced multi-agent orchestration, MCP integrations, and production-grade AI systems
-- Ask me about LangChain, LangGraph, RAG, FastAPI, n8n automation, vector databases, and AI agents
-- Fun fact: I turned 6+ years of data management experience into building full-stack AI features end-to-end
+- Building RAG pipelines, hierarchical multi-agent systems (LangGraph), and AI automation workflows
+- Open to collaborate on Generative AI, agentic coding systems, RAG platforms, and production AI tools
+- Exploring advanced multi-agent orchestration, MCP integrations, and local-first AI systems
+- Ask me about LangChain, LangGraph, RAG, FastAPI, Streamlit, n8n, vector databases, and AI agents
+- Fun fact: Turned 6+ years of data management experience into shipping full-stack AI products end-to-end
 
 ---
 
@@ -33,22 +32,20 @@
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
 
@@ -69,10 +66,16 @@
 
 | Project | Description |
 |---------|-------------|
-| [Realtime MLOps Platform](https://github.com/AdnanRaza88/realtime-mlops-platform) | End-to-end MLOps with model registry, automated retraining, and PSI drift detection |
-| [Autonomous Coding Agent](https://github.com/AdnanRaza88/autonomous-coding-agent) | Devin-style agent: Issue → Plan → Code → Test → Reflect → PR |
-| [E9 Lab Report Rubric Scorer](https://github.com/AdnanRaza88/e9) | Multi-agent evidence-backed grading with specialist agents per criterion |
-| [n8n AI Workflows](https://github.com/AdnanRaza88/n8n-ai-workflows) | Self-healing API executor + inbound lead routing to HubSpot and Slack |
+| [Helix](https://github.com/AdnanRaza88/Helix) | GitHub command surface — natural-language ops for repos, issues, PRs & multi-agent coding |
+| [AgentForge](https://github.com/AdnanRaza88/AgentForge) | Open-source terminal-first AI coding agent (multi-provider, skills, CLI + web) |
+| [claude-code-replica](https://github.com/AdnanRaza88/claude-code-replica) | Hierarchical multi-agent workspace inspired by Claude Code style domains |
+| [hr-voice-ai-platform](https://github.com/AdnanRaza88/hr-voice-ai-platform) | Local-first multi-agent HR Voice AI: screening, agentic RAG, employee panels |
+| [towelworks-factory](https://github.com/AdnanRaza88/towelworks-factory) | Offline Android factory workforce & overlock production manager (APK via Actions) |
+| [social-media-post](https://github.com/AdnanRaza88/social-media-post) | Relay — 24/7 social desk: transcribe, SEO, post & auto-reply across platforms |
+| [rag-os](https://github.com/AdnanRaza88/rag-os) | Self-hosted, privacy-first enterprise RAG & live-data knowledge platform |
+| [e9-lab](https://github.com/AdnanRaza88/e9-lab) | Lab Report Rubric Scorer — evidence-backed grading with specialist AI agents |
+| [GitHub-Agent](https://github.com/AdnanRaza88/GitHub-Agent) | Streamlit GitHub coding agent with Grok & multi-provider natural language control |
+| [AetherForge](https://github.com/AdnanRaza88/AetherForge) | Autonomous hierarchical multi-agent coding system (spec-driven, local-first) |
 
 ---
 
@@ -81,5 +84,5 @@
 </p>
 
 <div align="center">
-  <b>Open to full-time roles in AI Engineering, Generative AI, and AI Automation</b>
+  <b>Open to full-time roles in AI Engineering, Generative AI, and Multi-Agent Systems</b>
 </div>
